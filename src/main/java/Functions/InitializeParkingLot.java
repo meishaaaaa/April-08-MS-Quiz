@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class InitializeParkingLot {
-    static {
+     {
         ParkingRepository.clearHistory();
     }
 
